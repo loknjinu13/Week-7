@@ -1,6 +1,8 @@
-#Glanel Houenouvi
-##Linux
-###02-25-18
+# Glanel Houenouvi
+
+## Linux
+
+### 02-25-18
 
 
 **"An Industry Guide to Becoming a software Engineer"** by Bill Langerberg.
@@ -12,7 +14,7 @@ I definetely need to know the essentials troubleshooting skills.
 Bill's also back his arguments with examples and many other steps. For me 
 he has such a great dicdatic startegy of teaching people what they need 
 to know to kick-off their Software Engineering Career. How to write code and how
-to review code are important value of a Software Engineer.
+to review code are important value for a <del>Software Engineer</del>.
 
 According to me, I always want to know  and understand how  language are put
 together and during execution they can explain perfect thought of a developer
